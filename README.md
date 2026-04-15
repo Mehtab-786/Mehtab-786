@@ -36,6 +36,9 @@ Welcome to my GitHub profile! I love solving real-world problems through code . 
 ---
 
 ## 📫 Get in Touch  
+
+- **InApp:** [Mehtab Hussain](https://inapp.app/mehtab) 
+- **Twiter:** [Mehtab Hussain](https://x.com/soul_alone_0)  
 - **LinkedIn:** [Mehtab Hussain](https://www.linkedin.com/in/mehtabhussain786/)  
 - **Portfolio/GitHub:** [github.com/Mehtab-786](https://github.com/Mehtab-786)
 
