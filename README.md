@@ -1,5 +1,5 @@
 # 🚀 Hey there! I’m Mehtab Hussain 👨‍💻  
-🔥 Web Developer | JavaScript Enthusiast | Real-World Problem Solver  
+🔥 Web Developer | Real-World Problem Solver  
 
 Welcome to my GitHub profile! I love solving real-world problems through code . Whether it's creating dynamic websites or building sleek, interactive web apps — I’m always up for the challenge. 😎
 
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I love solving real-world problems through code . 
 
 ## 👨‍💻 About Me  
 - I’m a web developer with a strong passion for JavaScript and its core concepts.  
-- Recently graduated from **B.Com (Hons)** 📚.  
+- I'm a graduate from **B.Com (Hons)** 📚.  Yeah I know, I'm from non-tech.
 - Passionate about **programming** and exploring the world of **AI**.
 
 ---
@@ -15,14 +15,12 @@ Welcome to my GitHub profile! I love solving real-world problems through code . 
 ## 🌱 What I’m Currently Learning  
 - **MERN** to build full-stack applications and Web APIs  
 - **UI/UX principles** to enhance user experience and usability  
-- Diving deeper into **JavaScript (ES6+)** to master its powerful features
 
 ---
 
 ## 💡 Skills  
 **Frontend:** JavaScript, React.js, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB  
-**Version Control:** Git, GitHub  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL
 **Tools & Platforms:** VS Code, Chrome DevTools, Netlify, Vercel etc
 
 ---
